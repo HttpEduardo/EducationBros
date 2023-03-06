@@ -1,23 +1,20 @@
-# Education Diamond
+# Diamante da Educação O Contrato Diamond, também conhecido como EIP-2535, é o contrato inteligente atualizável mais avançado. Ele é um contrato de proxy multifacetado que permite que os desenvolvedores atualizem facilmente contratos já implantados.
 
-Diamond Contract which is called EIP-2535 is the most advanced upgradable smart contracts.
-It is multi facet proxy contracts which allow developers to upgrade easily already deploy contracts.
+Ele possui muitos artigos valiosos e tutoriais. Este repositório oferece muitos recursos para estudar o Contrato Diamond.
 
-It has lots of valuable articles and turtorials.
-This repository provides you lots of resources to study Diamond Contract.
+Aprendizagem
 
-## Learning<br>
-[1. EIP-2535 Diamonds](https://eips.ethereum.org/EIPS/eip-2535)<br>
-[2. EIP-2535 Diamonds Reference Section](https://eips.ethereum.org/EIPS/eip-2535#learning--references)<br>
-[3. Understanding Diamonds on Ethereum](https://dev.to/mudgen/understanding-diamonds-on-ethereum-1fb)<br>
-[4. Solidity delegatecall documentation](https://docs.soliditylang.org/en/v0.8.6/introduction-to-smart-contracts.html?highlight=delegatecall#delegatecall-callcode-and-libraries)<br>
-[5. Layout of State Variables in Storage](https://docs.soliditylang.org/en/v0.8.6/internals/layout_in_storage.html)<br>
-[6. How Diamond Storage Works](https://dev.to/mudgen/how-diamond-storage-works-90e)<br>
-[7. Solidity Libraries Can't Have State Variables -- Oh Yes They Can!](https://dev.to/mudgen/solidity-libraries-can-t-have-state-variables-oh-yes-they-can-3ke9)<br>
-[8. AppStorage Pattern for State Variables in Solidity](https://dev.to/mudgen/appstorage-pattern-for-state-variables-in-solidity-3lki)<br>
-[9. How to Share Functions Between Facets of a Diamond](https://dev.to/mudgen/how-to-share-functions-between-facets-of-a-diamond-1njb)<br>
+Diamantes EIP-2535
+Seção de referência de Diamantes EIP-2535
+Compreendendo Diamantes no Ethereum
+Documentação delegatecall de Solidity
+Layout de Variáveis ​​de Estado no Armazenamento
+Como o Armazenamento Diamond Funciona
+Bibliotecas Solidity Não Podem Ter Variáveis ​​de Estado - Oh Sim, Elas Podem!
+Padrão AppStorage para Variáveis ​​de Estado em Solidity
+Como Compartilhar Funções entre Facetas de um Diamante
+Discussão
 
-## Discussion<br>
-[1. Discussion for EIP-2535](https://ethereum-magicians.org/t/discussion-for-eip2535-diamonds/10459)
+Discussão para EIP-2535
 
-Feel free to make pull request to add more valuable resources.
+# Sinta-se à vontade para fazer pull request para adicionar mais recursos valiosos.
